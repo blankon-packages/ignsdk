@@ -1,4 +1,4 @@
-Source: ignsdk-debian
+Source: ignsdk
 Section: devel
 Priority: optional
 Maintainer: Blankon Developers <blankon-dev@googlegroups.com>
